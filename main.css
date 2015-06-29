@@ -1,0 +1,14 @@
+.container {
+	position: relative;
+}
+
+.map {
+	width: 100%;
+	position: absolute;
+}
+
+/*.marker-div {
+	position: absolute;	
+}
+
+*/
